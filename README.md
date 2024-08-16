@@ -39,7 +39,7 @@ sampctl package install aujiz11/samp-timestamp-include
 Include in your code and begin using the library:
 
 ```pawn
-#include <samp-timestamp-include>
+#include <timestamp>
 ```
 
 ## Usage
