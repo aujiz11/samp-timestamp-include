@@ -1,5 +1,7 @@
 # samp-timestamp-include
 
+### [timestamp.inc original version](https://github.com/Agneese-Saini/SA-MP/blob/master/pawno/include/timestamp.inc)
+
 [![sampctl](https://img.shields.io/badge/sampctl-samp--timestamp--include-2f2f2f.svg?style=for-the-badge)](https://github.com/aujiz11/samp-timestamp-include)
 
 <!--
